@@ -1,2 +1,1 @@
-# assets
-# assets
+# 画像などの置き場
